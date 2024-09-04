@@ -1,5 +1,5 @@
 <?php
-include "view-header.php"
+include "view-header.php";
 ?>
 <html lang="en">
   <head>
