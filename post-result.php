@@ -21,7 +21,3 @@ else
 }
 }
 ?>
-
-<?php
-include "view-footer.php";
-?>
